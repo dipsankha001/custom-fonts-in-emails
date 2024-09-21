@@ -6,7 +6,7 @@
 [![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg)](https://lass.js.org)
 [![license](https://img.shields.io/github/license/ladjs/custom-fonts-in-emails.svg)](LICENSE)
 
-**An extremely easy way to use custom fonts in emails without having to use art software.**
+**An extremely easy way to use custom fonts in emails without having to use art software.** 
 
 
 ## Table of Contents
